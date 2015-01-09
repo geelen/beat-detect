@@ -1,5 +1,9 @@
 {
-  "jspm": {},
+  "jspm": {
+    "dependencies": {
+      "fkit": "npm:fkit@^0.16.2"
+    }
+  },
   "devDependencies": {
     "gulp": "~3.8.10",
     "gulp-webserver": "~0.9.0"
